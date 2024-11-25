@@ -1,0 +1,8 @@
+Project Description
+
+- I want to developed a soft coding where usre can input there own area of interest from both local shapefile or Google Earth Engine cloud project.
+- User can input there desire date range as well as how much cloud coverage they want.
+- There are several indices function will be available and user can choose which index user want to calculate.
+- User will able to calculate one or more indices until user want to end the loop.
+
+

@@ -1,0 +1,7 @@
+## Future Work Plan
+
+### Remaining Tasks:
+1. **Spatial Join**: Perform a spatial join between the **litter** data and the **blighted areas** to determine the proximity between the two.
+2. **Statistical Analysis**: Perform a **correlation analysis** to understand the relationship between litter density and proximity to blighted areas.
+3. **Visualization**: Create additional visualizations such as heatmaps or density plots to better visualize areas with high litter density.
+4. **Final Report**: Summarize the findings in a report, including maps, statistical analysis, and interpretations of the data.

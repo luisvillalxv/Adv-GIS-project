@@ -1,0 +1,2 @@
+The next steps are to calculate the aquifer properties from the generated interpolation and the digital elevation model and standardize the process so that it can be used through a python function.
+This code was created using the Arcpy libraries because it was necessary to use a large number of python libraries to be able to generate interpolations through open source.

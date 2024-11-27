@@ -1,0 +1,8 @@
+Final Project: Geoprocessing and Buffers to Evaluate the Effect of Road Proximity on Vegetation
+
+Objective: >>The objective of this project is to evaluate how road proximity affects vegetation health, including changes in density, species diversity, and land cover.
+>>By creating buffer zones around roads and analyzing vegetation data within these zones, we want to quantify the impact of roads on vegetation and provide insights for sustainable transportation planning and conservation efforts.
+
+Work Plan: Data Collection>Data Processing(reproject, data cleaning)>Buffer Zone Creation>Intersect Vegetation Data with Buffers>Visualization>Findings
+
+Future Work Plan: make recommendations on urban planning strategies, such as creating green buffer zones, roadless areas, or wildlife corridors to mitigate negative effects on vegetation.

@@ -1,0 +1,20 @@
+## Script Objective & Work Plan
+
+### Objective:
+The objective of this project is to explore the relationship between **blighted areas** and **litter** in **Memphis, TN** for the year **2024**. This involves spatial analysis to determine if there are correlations between the proximity of litter locations and blighted areas. The final goal is to visualize the distribution of litter relative to blighted areas and explore any potential patterns.
+
+### Work Plan:
+1. **Data Collection**:
+   - Gather shapefiles for **blighted areas** and **litter** for 2024 from available datasets (e.g., city data hub, Memphis Data Hub).
+2. **Data Preparation**:
+   - Load the shapefiles into Python using GeoPandas.
+   - Clean the data and inspect the structure for missing values or inconsistencies.
+3. **Geospatial Analysis**:
+   - Perform **buffer analysis** around blighted areas to assess the proximity of litter.
+   - Use **spatial joins** to analyze the relationship between blighted areas and litter locations.
+4. **Visualization**:
+   - Create visualizations to show the spatial distribution of blighted areas and litter.
+   - Explore the relationship through scatter plots or heatmaps.
+5. **Next Steps**:
+   - Perform **statistical analysis** (e.g., Pearson correlation) to quantify the relationship between litter and blight.
+   - Finalize visualizations and begin writing up the results for the final report.

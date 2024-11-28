@@ -1,5 +1,5 @@
 # Adv-GIS-project
-#Objective: To determine and visualize the Human Footprint Index(HFI) to assess human impacts on riparian vegetation. 
+#Objective: To determine and visualize the Human Footprint Index(HFI) to assess human influence on riparian vegetation. 
 #Workflow Description: 
 #########Use eight different sub-indices representing different aspects of human pressures on the terrestrial surface of the Earth, including (a) the extent of the built environment, (b) population density, (c) electric infrastructure, (d) agricultural lands, (e) pasture lands, (f) roadways, (g) railways, and (h) navigable waterways to determine HFI. 
 #########Followed by softcoding, which would require user inputs, such as Aoi, date, cloud filter %, desired buffer radius to compute HFI.

@@ -352,4 +352,6 @@ os.remove(directoryPath + "\\WellData.geojson")
 ## Interactive map
 - As a result of the execution of the function, an interactive map is generated in which the resulting layers are presented.
 
-<iframe src="ExampleOfResultsInteractiveMap.html" width="100%" height="800" style="border: none;"></iframe>
+![image](https://github.com/user-attachments/assets/e6da97a9-e386-45ce-813a-884cc27a6186)
+<p align="center">Figure 3. Example of the resulting map/p>
+

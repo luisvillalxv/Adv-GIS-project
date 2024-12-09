@@ -177,8 +177,6 @@ plt.imsave(png_route_dem, colored_array)
 extent = raster_obj.extent
 bounds = [[extent.YMin, extent.XMin], [extent.YMax, extent.XMax]]
 
-m = folium.Map(location=[(extent.YMin + extent.YMax) / 2, (extent.XMin + extent.XMax) / 2], zoom_start=7)
-
 folium.raster_layers.ImageOverlay(
     image=png_route_dem,
     bounds=bounds,
